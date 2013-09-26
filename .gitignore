@@ -3,8 +3,9 @@
 
 /images
 /data/flash
-/data/*.zip
-/data/*.swf
+/data/*.json*
+/data/*.zip*
+/data/*.swf*
 /*.sublime-*
 
 /config.rb
