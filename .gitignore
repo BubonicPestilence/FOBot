@@ -1,0 +1,10 @@
+/sync.sh
+/flash-cleaner.rb
+
+/images
+/data/flash
+/data/*.zip
+/data/*.swf
+/*.sublime-*
+
+/config.rb
