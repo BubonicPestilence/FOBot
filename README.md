@@ -17,10 +17,12 @@ Fantasy MMORPG Bot :)
         disabled: false,
         
         # hash speed up process of authentication
-        # if you provide here hash after initial auth
+        # provide it here after initial auth
+        # not required if password provided
         hash: nil,
         
         # password from ingame email
+        # not required if hash provided
         password: "wfdt3v5p",
         
         # force server (input 1 for "FO01" == "Server #2")
